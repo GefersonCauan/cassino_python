@@ -1,0 +1,6 @@
+[19/08/2025 09:17:07] Jogo: Blackjack | Aposta: 300 | Resultado: Empate | Saldo final: 1000
+[19/08/2025 09:20:00] Jogo: Slot Machine | Aposta: 200 | Resultado: Ganhou 400 | Saldo final: 1200
+[19/08/2025 09:26:35] Jogo: Slot Machine | Aposta: 20 | Resultado: Ganhou 40 | Saldo final: 1220
+[19/08/2025 09:27:05] Jogo: Slot Machine | Aposta: 20 | Resultado: Ganhou 40 | Saldo final: 1240
+[19/08/2025 09:27:30] Jogo: Slot Machine | Aposta: 20 | Resultado: Perdeu | Saldo final: 980
+[19/08/2025 09:27:43] Jogo: Slot Machine | Aposta: 300 | Resultado: Perdeu | Saldo final: 680
